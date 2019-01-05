@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+
+.note {
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  font-style: italic;
+  display: inline-block;
+}

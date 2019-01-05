@@ -1,0 +1,6 @@
+{
+  "short_name": "My Notes App",
+  "name": "Create notes",
+  "start_url": ".",
+  "display": "standalone"
+}
